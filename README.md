@@ -13,4 +13,5 @@ Machine learning project to predict student math scores using Linear Regression.
 Gender, parent education, Lunch, reading score, writing score
 
 ## Author
-Siddhi
+Siddhi Kandare
+GitHub: https://github.com/siddkandare
