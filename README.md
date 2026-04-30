@@ -10,7 +10,7 @@ Machine learning project to predict student math scores using Linear Regression.
 88.38%
 
 ## Features
-Gender, parental education, lunch, reading score, writing score
+Lunch, reading score, writing score
 
 ## Author
 Siddhi
